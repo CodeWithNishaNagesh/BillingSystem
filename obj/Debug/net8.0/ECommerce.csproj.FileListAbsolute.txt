@@ -1,0 +1,14 @@
+C:\Users\HNNisha(893)\Documents\DFL-AnomalyDetection-App\Problem_Statement\ECommerce\bin\Debug\net8.0\ECommerce.exe
+C:\Users\HNNisha(893)\Documents\DFL-AnomalyDetection-App\Problem_Statement\ECommerce\bin\Debug\net8.0\ECommerce.deps.json
+C:\Users\HNNisha(893)\Documents\DFL-AnomalyDetection-App\Problem_Statement\ECommerce\bin\Debug\net8.0\ECommerce.runtimeconfig.json
+C:\Users\HNNisha(893)\Documents\DFL-AnomalyDetection-App\Problem_Statement\ECommerce\bin\Debug\net8.0\ECommerce.dll
+C:\Users\HNNisha(893)\Documents\DFL-AnomalyDetection-App\Problem_Statement\ECommerce\bin\Debug\net8.0\ECommerce.pdb
+C:\Users\HNNisha(893)\Documents\DFL-AnomalyDetection-App\Problem_Statement\ECommerce\obj\Debug\net8.0\ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HNNisha(893)\Documents\DFL-AnomalyDetection-App\Problem_Statement\ECommerce\obj\Debug\net8.0\ECommerce.AssemblyInfoInputs.cache
+C:\Users\HNNisha(893)\Documents\DFL-AnomalyDetection-App\Problem_Statement\ECommerce\obj\Debug\net8.0\ECommerce.AssemblyInfo.cs
+C:\Users\HNNisha(893)\Documents\DFL-AnomalyDetection-App\Problem_Statement\ECommerce\obj\Debug\net8.0\ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\HNNisha(893)\Documents\DFL-AnomalyDetection-App\Problem_Statement\ECommerce\obj\Debug\net8.0\ECommerce.dll
+C:\Users\HNNisha(893)\Documents\DFL-AnomalyDetection-App\Problem_Statement\ECommerce\obj\Debug\net8.0\refint\ECommerce.dll
+C:\Users\HNNisha(893)\Documents\DFL-AnomalyDetection-App\Problem_Statement\ECommerce\obj\Debug\net8.0\ECommerce.pdb
+C:\Users\HNNisha(893)\Documents\DFL-AnomalyDetection-App\Problem_Statement\ECommerce\obj\Debug\net8.0\ECommerce.genruntimeconfig.cache
+C:\Users\HNNisha(893)\Documents\DFL-AnomalyDetection-App\Problem_Statement\ECommerce\obj\Debug\net8.0\ref\ECommerce.dll

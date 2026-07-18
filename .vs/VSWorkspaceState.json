@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Billing",
+    "\\BillingSystem",
+    "\\Billing\\Implementations",
+    "\\Billing\\Interfaces",
+    "\\Customers",
+    "\\obj\\Release"
+  ],
+  "SelectedNode": "\\BillingSystem\\ShopBillingSystem.cs",
+  "PreviewInSolutionExplorer": false
+}
