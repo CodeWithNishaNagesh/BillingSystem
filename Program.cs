@@ -1,6 +1,6 @@
-using ECommerce.Billing;
-using ECommerce.BillingSystem;
-using ECommerce.Customers;
+using BillingSystem.Billing;
+using BillingSystem.BillingSystem;
+using BillingSystem.Customers;
 
 IEmail email = new Email();
 ShopBillingSystem billing = new();

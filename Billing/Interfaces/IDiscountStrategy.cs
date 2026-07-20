@@ -1,4 +1,4 @@
-namespace ECommerce.Billing;
+namespace BillingSystem.Billing;
 
 // Applies a discount to an already calculated amount.
 public interface IDiscountStrategy

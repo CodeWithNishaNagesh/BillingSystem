@@ -1,4 +1,4 @@
-# ECommerce – Billing Calculation
+# BillingSystem – Billing Calculation
 
 Application for a retail shop's billing. The shop already had a legacy
 BillingSystem calculates amount , GST, Offer based on existing membership and new customer.

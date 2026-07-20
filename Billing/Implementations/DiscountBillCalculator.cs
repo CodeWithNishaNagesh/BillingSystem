@@ -1,4 +1,4 @@
-namespace ECommerce.Billing;
+namespace BillingSystem.Billing;
 
 // Calculates the bill and then applies a discount on top of it.
 public class DiscountBillCalculator : IBillCalculator

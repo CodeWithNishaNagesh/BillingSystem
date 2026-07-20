@@ -1,4 +1,4 @@
-namespace ECommerce.Billing;
+namespace BillingSystem.Billing;
 
 // Offer to the customers.
 public interface IOffer

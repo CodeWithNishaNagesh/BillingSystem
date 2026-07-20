@@ -1,4 +1,4 @@
-namespace ECommerce.Billing;
+namespace BillingSystem.Billing;
 
 // No discount for new membership customers.
 public class NewMembershipDiscount : IDiscountStrategy

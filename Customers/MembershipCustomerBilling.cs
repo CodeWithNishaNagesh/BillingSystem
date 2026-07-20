@@ -1,7 +1,7 @@
-using ECommerce.Billing;
+using BillingSystem.Billing;
 
 
-namespace ECommerce.Customers;
+namespace BillingSystem.Customers;
 
 // Membership customer: 20% discount and only the bill is emailed (no offer).
 public  class MembershipCustomerBilling

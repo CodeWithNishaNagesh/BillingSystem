@@ -1,4 +1,4 @@
-namespace ECommerce.Billing;
+namespace BillingSystem.Billing;
 
 // 20% discount for membership customers.
 public class MembershipDiscount : IDiscountStrategy
