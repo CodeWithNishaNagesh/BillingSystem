@@ -1,4 +1,4 @@
-namespace ECommerce.BillingSystem;
+namespace BillingSystem.BillingSystem;
 
 /// <summary>
 /// LEGACY class. Responsible only for bill calculation and is consumed in

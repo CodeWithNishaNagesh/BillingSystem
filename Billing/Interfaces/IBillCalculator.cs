@@ -1,4 +1,4 @@
-namespace ECommerce.Billing;
+namespace BillingSystem.Billing;
 
 // Calculates the bill for a list of item prices.
 public interface IBillCalculator

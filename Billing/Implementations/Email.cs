@@ -1,4 +1,4 @@
-namespace ECommerce.Billing;
+namespace BillingSystem.Billing;
 
 // Sends the email by writing it to the console.
 public class Email : IEmail

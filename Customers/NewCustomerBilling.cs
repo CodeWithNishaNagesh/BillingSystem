@@ -1,6 +1,6 @@
-using ECommerce.Billing;
+using BillingSystem.Billing;
 
-namespace ECommerce.Customers;
+namespace BillingSystem.Customers;
 
 // Walk-in (New Customer) customer, send the bill along with the offer for the next purchase.
 public  class NewCustomerBilling
